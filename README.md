@@ -13,4 +13,4 @@ Then, you can run the Abaqus an open the .odb file to see the results.
 ## Citation
 If you use this code in your research or publications, please cite the following article, which is going to be published in the journal of Mechanics of Materials:
 
-"Constitutive modeling of diffusion-limited oxidation coupled with a large deformation theory for polymer degradation", Hossein Naderi, Roozbeh Dargazany.
+Naderi, H. and Dargazany, R., 2025. Constitutive modeling of diffusion-limited oxidation coupled with a large deformation theory for polymer degradation. Mechanics of Materials, p.105270.
